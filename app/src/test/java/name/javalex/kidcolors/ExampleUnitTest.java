@@ -1,4 +1,4 @@
-package javalex.name.kidcolors;
+package name.javalex.kidcolors;
 
 import org.junit.Test;
 

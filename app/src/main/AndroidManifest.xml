@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="javalex.name.kidcolors">
+    package="name.javalex.kidcolors">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity
-            android:name=".MainActivity" >
+            android:name="name.javalex.kidcolors.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
